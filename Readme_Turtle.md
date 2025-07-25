@@ -234,5 +234,4 @@ source ~/.bashrc
 
 ---
 
-Let me know if you'd like this exported to a `.md` file or zipped as a starter repo.
 
