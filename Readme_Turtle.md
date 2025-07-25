@@ -1,6 +1,3 @@
-
----
-
 ## 🐢 ROS 2 Turtlesim Circle Drawing
 
 This ROS 2 project demonstrates how to use the **turtlesim** simulator to draw a **circle** using a custom Python node. This project is designed for **beginners** and covers everything from installation to execution.
