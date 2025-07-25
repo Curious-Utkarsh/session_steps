@@ -1,4 +1,3 @@
-Based on your presentation and your request, here's a complete **GitHub README.md** file for a ROS 2 project that installs turtlesim and draws a **circle** using a custom Python node. It includes everything from scratch: installing turtlesim, creating a workspace, writing the node, setting up `package.xml`, `setup.py`, and CLI commands.
 
 ---
 
